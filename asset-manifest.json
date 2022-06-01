@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wbsommerhub.io.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/wbsommerhub.io.git/static/js/main.17debb3b.chunk.js",
+    "main.js.map": "/wbsommerhub.io.git/static/js/main.17debb3b.chunk.js.map",
+    "runtime-main.js": "/wbsommerhub.io.git/static/js/runtime-main.af9fdc61.js",
+    "runtime-main.js.map": "/wbsommerhub.io.git/static/js/runtime-main.af9fdc61.js.map",
+    "static/js/2.e22aae4c.chunk.js": "/wbsommerhub.io.git/static/js/2.e22aae4c.chunk.js",
+    "static/js/2.e22aae4c.chunk.js.map": "/wbsommerhub.io.git/static/js/2.e22aae4c.chunk.js.map",
+    "static/js/3.c036f617.chunk.js": "/wbsommerhub.io.git/static/js/3.c036f617.chunk.js",
+    "static/js/3.c036f617.chunk.js.map": "/wbsommerhub.io.git/static/js/3.c036f617.chunk.js.map",
+    "index.html": "/wbsommerhub.io.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/wbsommerhub.io.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e22aae4c.chunk.js.LICENSE.txt": "/wbsommerhub.io.git/static/js/2.e22aae4c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/wbsommerhub.io.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af9fdc61.js",
+    "static/js/2.e22aae4c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.17debb3b.chunk.js"
+  ]
+}
